@@ -12,4 +12,4 @@ cpan install IO::Socket::INET
 cpan install Try::Tiny
 sleep 2
 clear 
-echo"All the dependencies are installed !"
+echo "All the dependencies are installed !"
