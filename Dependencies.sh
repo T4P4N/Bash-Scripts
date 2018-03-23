@@ -10,6 +10,7 @@ cpan install Term::ANSIColor
 cpan install URI::URL
 cpan install IO::Socket::INET
 cpan install Try::Tiny
+cpan install JSON
 sleep 2
 clear 
 echo "All the dependencies are installed !"
