@@ -14,3 +14,4 @@ cpan install JSON
 sleep 2
 clear 
 echo "All the dependencies are installed !"
+echo "-------->Script By T4P4N<---------"
