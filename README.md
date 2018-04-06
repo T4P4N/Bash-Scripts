@@ -1,7 +1,7 @@
 # Bash-Scripts
-Some basic scripts for automating the Installation of dependencies for perl.
+Some basic scripts for automating the work.
 
-## Installation
+## Installation for Dependencies.sh
 First Install the git & curl using this command
 ``` bash
 apt install git curl
