@@ -1,0 +1,8 @@
+#!$PREFIX/usr/bin/sh
+#Author:T4P4N
+apt update
+apt upgrade
+apt install clang python-dev python libzmq libcrypt libzmq-dev libcrypt-dev
+pip install jupyter
+echo -e "Script by T4P4N"
+#Still more to do here
