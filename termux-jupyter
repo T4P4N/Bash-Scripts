@@ -1,8 +1,18 @@
-#!$PREFIX/usr/bin/sh
-#Author:T4P4N
+#!/data/data/com.termux/files/usr/bin/bash
+#Author:T4P4N aka Tapan Kashyap & Special thanks to grimler91
 apt update
 apt upgrade
+clear
+echo "Installing dependencies"
+sleep 1
 apt install clang python-dev python libzmq libcrypt libzmq-dev libcrypt-dev
+clear
+echo "Installing Jupyter"
+sleep 1
 pip install jupyter
-echo -e "Script by T4P4N"
-#Still more to do here
+clear
+echo "----------------------"
+echo "Installation sucessful"
+echo "----------------------"
+echo "[_]Script by T4P4N[_]"
+termux-open-url t4p4n.blogspot.in
