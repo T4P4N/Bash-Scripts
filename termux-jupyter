@@ -15,4 +15,3 @@ echo "----------------------"
 echo "Installation sucessful"
 echo "----------------------"
 echo "[_]Script by T4P4N[_]"
-termux-open-url t4p4n.blogspot.in
