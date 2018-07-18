@@ -1,0 +1,4 @@
+#!/data/data/com.termux/files/bin/sh
+#A simple script to automate!
+pkg install clang libxml2 libxml2-dev libxml2-utils libxslt
+pip install lxml
